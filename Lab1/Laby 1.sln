@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laby 1", "Laby 1.csproj", "{0C3D147D-51AC-482E-83FD-74013FF552AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EF85827-0259-4ECC-A80F-40A5C4975094}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3D147D-51AC-482E-83FD-74013FF552AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3D147D-51AC-482E-83FD-74013FF552AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3D147D-51AC-482E-83FD-74013FF552AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3D147D-51AC-482E-83FD-74013FF552AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BC9934-BCB8-42BD-97E4-383FAFCD0C31}
+	EndGlobalSection
+EndGlobal
